@@ -7,7 +7,7 @@
 <p align="center">
 	<a href="#pre-requisitos">Sobre o desafio</a> | 
 	<a href="#deploy">Deploy</a> | 
-	<a href="#funcionalidade">Funcionalidade</a> | 
+	<a href="#funcionalidade">Funcionalidade</a>
 </p>
 
 ### :gear: Sobre o desafio
@@ -19,16 +19,11 @@ O carro poderá alternar entre três lados da pista (esquerda, meio e direita). 
 
 Para simplificar o desafio, fizemos duas imagens que você pode usar como base.
 
-<p align="center">
-  <img src="./assets/img/CENARIO_anima.git" alt="Scenario"/>
-  <img src="./assets/img/CARRO.png" />
-</p>
-
 ### :link: Deploy
 
 <p>
 	Para acessar o deploy da aplicação na plataforma da <a href="https://app.netlify.com/">Netlify</a>, visite
-	<a href="https://murilojssilva-origamid-sass.netlify.app/">https://murilojssilva-origamid-sass.netlify.app/</a>
+	<a href="https://upnid-uprace-murilojssilva.netlify.app/">https://upnid-uprace-murilojssilva.netlify.app/</a>
 </p>
 
 ### :hammer: Funcionalidade
